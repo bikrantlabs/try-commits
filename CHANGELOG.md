@@ -1,5 +1,12 @@
 
 
+## [0.2.1](https://github.com/bikrantlabs/try-commits/compare/0.2.0...0.2.1) (2024-04-23)
+
+
+### Bug Fixes
+
+* fixed issue [#1](https://github.com/bikrantlabs/try-commits/issues/1) ([e8db7ab](https://github.com/bikrantlabs/try-commits/commit/e8db7abfc98986f7de08e9fd686a1274ff9cc933))
+
 ## [0.2.0](https://github.com/bikrantlabs/try-commits/compare/0.1.0...0.2.0) (2024-04-23)
 
 
