@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it"
+    "release": "release-it",
+    "commit": "commit"
   },
   "keywords": [],
   "author": "",
@@ -42,5 +43,8 @@
         }
       }
     }
+  },
+  "devDependencies": {
+    "@commitlint/prompt-cli": "^19.3.0"
   }
 }
